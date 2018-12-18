@@ -3817,25 +3817,41 @@ input, select, textarea {
 
 		#main > .imagen {
 			background-image: url("https://emprendiendo2018.files.wordpress.com/2018/12/planning-1-1.jpg");
-	    background-size: cover;
-	    background-repeat: no-repeat;
+			background-attachment: fixed;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
 	    background-position: 50% 50%;
 			height: 800px;
 		}
 		#main > .imagen2 {
 			background-image: url("https://emprendiendo2018.files.wordpress.com/2018/12/Fotolia_5933888_M.jpg");
-	    background-size: cover;
-	    background-repeat: no-repeat;
+			background-attachment: fixed;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
 	    background-position: 50% 50%;
 			height: 800px;
 		}
 		#main > .imagen3 {
 			background-image: url("https://emprendiendo2018.files.wordpress.com/2018/12/TermGlance_WhiteDesk_13de3ce5-b568-4c51-ab85-420ed67fca20_1400x.jpg");
-	    background-size: cover;
-	    background-repeat: no-repeat;
+			background-attachment: fixed;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
 	    background-position: 50% 50%;
 			height: 800px;
 		}
+		#main > .imagenfija {
+			background-image: url("https://emprendiendo2018.files.wordpress.com/2018/12/introduccion.png");
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: contain;
+	    background-position: 50% 50%;
+			height: 400px;
+		}
+
+
 
 			#main > .posts > * {
 				-moz-flex-shrink: 1;
